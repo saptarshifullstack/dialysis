@@ -1,0 +1,18 @@
+#1w temperature sensor using rpi
+
+https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/
+https://www.youtube.com/watch?v=aEnS0-Jy2vE
+
+#Flow sensor "edge detection problem" solution when interrupt is not working in other gpio pin
+
+https://raspberrypi.stackexchange.com/questions/147332/rpi-gpio-runtimeerror-failed-to-add-edge-detection
+
+
+#Flow sensor reading using rpi
+https://tutorials-raspberrypi.com/reading-out-the-flow-meter-water-flow-sensor-on-the-raspberry-pi/
+
+
+
+#Final pin connections with rpi
+1wire temp. sensor data to be used with rpi physical pin 36 (GPIO16)
+Flow to be used with rpi physical pin 38 (GPIO20)
